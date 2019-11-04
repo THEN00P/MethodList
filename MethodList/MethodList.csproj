@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.5</TargetFramework>
+    <Authors>Lorenz Bank</Authors>
+    <Company />
+    <Description>A small library to create function lists in the .NET console.</Description>
+    <PackageTags>console list methods method action menu</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>(c) 2019 Lorenz Bank</Copyright>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
